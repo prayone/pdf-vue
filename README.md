@@ -5,5 +5,8 @@
 
 
 启项目
+
 npm install or yarn
+
+npm run dev
 
